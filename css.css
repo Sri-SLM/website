@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(0, 122, 162);
+}
+.indian{ align-content: center;}
+h1 {
+  color: rgb(177, 34, 34);
+  text-align: center;
+}
+h2{
+  color: rgb(0, 0, 210);
+  text-align: center
+
+
+}
+p {
+  font-family:"sans-serif"
+  font-size: 24px;
+ 
+}
+
+h3{
+  color: rgb(10, 226, 104);
+  text-align:center}
+
+#sarayamkudi {
+  background-image: "https://i.ibb.co/10RqjPQ/download-4.png";
+  color: aqua;
+shape-margin:center;
+
+}
+
+div{
+  text-indent: 3cm;
+  text-align: center;
+  align-content: center;
+vertical-align: middle;
+align-self: center;
+color: rgb(1, 30, 30);
+}
+h4{
+  font-size: 40px;
+  text-align: center 
+  color: rgb(10, 226, 104);}
+  h4{color: rgb(10, 226, 104);}
+  p{text-indent:5cm}
